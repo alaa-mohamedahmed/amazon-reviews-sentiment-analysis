@@ -10,7 +10,7 @@ Dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/snap/ama
 - 256,059 users
 - 74,258 products
 
-## Analysis Content & Steps
+## Analysis Steps
 
 1. **Step 1:** Install + Import Necessary Libraries
 2. **Step 2:** Reading + Exploring Data
